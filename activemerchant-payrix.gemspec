@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.require_paths = ['lib']
 
   s.add_development_dependency('test-unit', '~> 3')
-  s.add_development_dependency('mocha', '~> 1')
+  s.add_development_dependency('mocha', '~> 2')
   s.add_development_dependency('rake')
   s.add_runtime_dependency 'activemerchant', '>= 1.20.0'
 end
