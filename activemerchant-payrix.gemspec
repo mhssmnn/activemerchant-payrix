@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version = ActiveMerchant::Payrix::VERSION
   s.authors = ['Mark Haussmann']
   s.email = ['mark.haussmann@gmail.com']
-  s.homepage = ''
+  s.homepage = 'https://github.com/mhssmnn/activemerchant-payrix'
   s.summary = 'ActiveMerchant Payrix Plugin'
   s.description = 'An ActiveMerchant plugin that provides a Payrix gateway'
 
